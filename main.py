@@ -6068,7 +6068,7 @@ async def save(ctx):
      cfile = open('c:\\python\\farmbotcars.txt', 'w', encoding='utf-8')
      cfile.write(str(cars))
      cfile.close()
-     await ctx.send('yes')
+     await ctx.send('yea')
 ########################################################
 
 bot.run('OTQyODEzODAzNTE3NzI2ODAw.Ygp9xw.DQT0OcWrSJBVV9-OLJIVqSn156I')
